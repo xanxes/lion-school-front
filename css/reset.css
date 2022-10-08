@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #3347B0;
+    --secondary-color: #BCC2E5;
+    --terciary-color: #E5B657;
+    --disapproved-red: #C11010;
+
+  }
+
+
+  
+
+a {
+    font-family: 'Roboto', sans-serif;
+
+    text-decoration: none;
+    color: #fff;
+
+}
+
+span{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+html {
+    width: 100vw;
+    height: 100vh;
+}
